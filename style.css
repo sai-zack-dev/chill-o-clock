@@ -1,6 +1,6 @@
 :root {
-      --bg-color: #d8ead2;
-      --theme-color: #7fdfa2;
+      --bg-color: #F3EBE0;
+      --theme-color: #6E4E37;
     }
 
     body {
@@ -14,7 +14,11 @@
       background-color: var(--theme-color);
       color: white;
       text-align: center;
-      padding: 1rem;
+      /* padding: 1rem; */
+    }
+    .logo {
+      width: 250px;
+      height: 250px;
     }
 
     .tabs {
